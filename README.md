@@ -1,6 +1,8 @@
 
 # MonstersDex
 
+PAGE: https://gabrielpaliano.github.io/monstersdex/
+
 🇧🇷
 Projeto de estudo em React, no qual foi abordado conceitos básicos como:
  - Estruturação de pastas e diretórios;
