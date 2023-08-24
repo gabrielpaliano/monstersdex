@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/monstersdex/static/css/main.526e0588.css",
-    "main.js": "/monstersdex/static/js/main.f0f2bc3d.js",
-    "static/js/787.d7edc103.chunk.js": "/monstersdex/static/js/787.d7edc103.chunk.js",
-    "index.html": "/monstersdex/index.html",
-    "main.526e0588.css.map": "/monstersdex/static/css/main.526e0588.css.map",
-    "main.f0f2bc3d.js.map": "/monstersdex/static/js/main.f0f2bc3d.js.map",
-    "787.d7edc103.chunk.js.map": "/monstersdex/static/js/787.d7edc103.chunk.js.map"
+    "main.css": "/monsterdex/static/css/main.526e0588.css",
+    "main.js": "/monsterdex/static/js/main.0a11ff21.js",
+    "static/js/787.d7edc103.chunk.js": "/monsterdex/static/js/787.d7edc103.chunk.js",
+    "index.html": "/monsterdex/index.html",
+    "main.526e0588.css.map": "/monsterdex/static/css/main.526e0588.css.map",
+    "main.0a11ff21.js.map": "/monsterdex/static/js/main.0a11ff21.js.map",
+    "787.d7edc103.chunk.js.map": "/monsterdex/static/js/787.d7edc103.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.526e0588.css",
-    "static/js/main.f0f2bc3d.js"
+    "static/js/main.0a11ff21.js"
   ]
 }
