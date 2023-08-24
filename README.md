@@ -1,6 +1,7 @@
 
 # MonstersDex
 
+🇧🇷
 Projeto de estudo em React, no qual foi abordado conceitos básicos como:
  - Estruturação de pastas e diretórios;
  - Componentes genérios e utilização de props;
@@ -8,11 +9,18 @@ Projeto de estudo em React, no qual foi abordado conceitos básicos como:
  - CSS em React;
  - Classes;
  - Otimizações simples como: Funções Anonimas, Estudo de renderização e re-renderização de componente para melhor otimização de um SPA (Single Page App);
+---
+🇺🇸
+Study project in React, in which basic concepts such as:
+ - Structuring folders and directories;
+ - Generic components and use of props;
+ - Fetch in public API's for data manipulation;
+ - CSS in React;
+ - Classes;
+ - Simple optimizations such as: Anonymous Functions, Study of rendering and component re-rendering for better optimization of a SPA (Single Page App);
 
-Pretendo evoluir esse projeto, caso tenha críticas construtivas pode estar me comunicando em algum dos meus meios de contato.
+# API's
 
-# API's Utilizadas:
+JSONPlaceholder (https://jsonplaceholder.typicode.com/) 
 
-JSONPlaceholder (https://jsonplaceholder.typicode.com/) - Fake API para preenchimento de dados de usuários;
-
-RoboHash (https://robohash.org/) - Utilizado para gerar imagens automáticas diferentes para cada elemento.
+RoboHash (https://robohash.org/)
