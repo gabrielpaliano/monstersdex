@@ -1,7 +1,6 @@
 import "./card.styles.css";
 
 const Card = ({ monster }) => {
-  
   const {id, name, email} = monster;
 
   <div className="card-container" key={id}>
